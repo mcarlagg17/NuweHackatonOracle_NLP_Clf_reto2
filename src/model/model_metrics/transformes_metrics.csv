@@ -1,0 +1,3 @@
+model;ACC;Precision;Recall;F1;Jaccard
+<transformers.models.roberta.modeling_tf_roberta.TFRobertaForSequenceClassification object at 0x7f7591ad2dc0;0.8590848806366048;0.8322266489597167;0.9761163032191069;0.898446833930705;0.8156182212581344
+<transformers.models.roberta.modeling_tf_roberta.TFRobertaForSequenceClassification object at 0x7f538999cdc0;0.8524535809018567;0.8392120934493816;0.9511941848390446;0.8917011438306157;0.8045674132630655
